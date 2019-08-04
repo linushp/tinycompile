@@ -1,0 +1,19 @@
+{
+  "name": "tinycompile",
+  "version": "1.0.0",
+  "description": "极小的js模版编译函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linushp/tinycompile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linushp/tinycompile/issues"
+  },
+  "homepage": "https://github.com/linushp/tinycompile#readme"
+}
